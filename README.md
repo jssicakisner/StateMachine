@@ -18,11 +18,11 @@ This is a demo application that shows the functionality of processing payment st
 
 **The spring state machine dependency needs to be added separately.**
 
-`<dependency>
- <groupId>org.springframework.statemachine</groupId>
- <artifactId>spring-statemachine-core</artifactId>
- <version>2.2.0.RELEASE</version>
-</dependency>`
+`<dependency>`
+` <groupId>org.springframework.statemachine</groupId>`
+` <artifactId>spring-statemachine-core</artifactId>`
+` <version>2.2.0.RELEASE</version>`
+`</dependency>`
 
 ### Contributions
 
